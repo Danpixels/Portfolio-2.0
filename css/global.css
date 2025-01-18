@@ -1,0 +1,10 @@
+body {
+  font-family: "Fira Sans", Arial, sans-serif;
+  color: #141414;
+}
+
+ul {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
